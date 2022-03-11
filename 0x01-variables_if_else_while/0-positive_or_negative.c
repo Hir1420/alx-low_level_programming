@@ -26,17 +26,17 @@ int main(void)
 
 				    if(n > 0){
 
-					            printf ("Positive")
+					            printf ("is positive");
 
 							        }
 
-				        elseif(n == 0){
+				        else if(n == 0){
 
-						        printf("is zero")
+						        printf("is zero");
 
-								    }else(n < 0){
+								}else(n < 0){
 
-									            printf("is negative")
+									            printf("is negative");
 
 											        }
 
