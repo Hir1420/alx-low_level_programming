@@ -4,9 +4,11 @@
  * print_times_table - prints the n times table, starting with 0
  * n: size of time table
  */
-void print_times_table(int n)
+void print_times_table(int n);
 {
- int a,b,c
+ int a;
+ int b;
+ int c;
 
  if (n >= 0 && n <= 15)
  {
